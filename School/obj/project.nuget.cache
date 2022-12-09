@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oGvFtqsJuPSrEyHb+HL1s1u62GMq7NZfW4y1x2bnB/JQDaNGruTvz+2kRzh825WFVdbUz1rZ7nUNPBvRV8U3Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ToDo\\School\\School\\School.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
